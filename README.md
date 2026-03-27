@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+## NAME: SIVAHARIBALAN K
+## REG NO: 212224220103
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
